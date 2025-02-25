@@ -5,7 +5,7 @@ A Python package for generating text embeddings using transformer models.
 ## Installation
 
 ```bash
-pip install git+https://http://github.com/MediaMonitoringAndAnalysis/embeddings_generator.git
+pip install git+https://github.com/MediaMonitoringAndAnalysis/embeddings_generator.git
 ```
 
 ## Usage
