@@ -3,7 +3,7 @@ name = "embeddings-generator"
 version = "0.1.0"
 description = "a package to generate embeddings from entries"
 authors = [
-    {name = "Reporter.ai (http://reporterai.org)",email = "reporter·ai@boldcode.io"}
+    {name = "Reporter.ai (http://reporterai.org)",email = "reporter.ai@boldcode.io"}
 ]
 license = {text = "AGPL v3.0"}
 readme = "README.md"
