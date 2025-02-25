@@ -10,8 +10,8 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "torch",
-    "tqdm",
-    "transformers"
+    "tqdm>=4.66.3",
+    "transformers>=4.48.0"
 ]
 
 
